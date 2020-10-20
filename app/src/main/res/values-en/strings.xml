@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My first proyect</string>
+    <string name="titulo_name">Welcome</string>
+    <string name="boton_ingresar">Enter</string>
+
+</resources>
